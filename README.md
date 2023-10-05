@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caio Vincius</h1>
 <h3 align="center">A passionate developer from Brasil</h3>
 
-- 🌱 I’m currently learning **SQL SERVER**
+- 🌱 I’m currently learning **SQL SERVER** and **DELPHI 2010**
 
 - 👨‍💻 All of my projects are available at [https://react-portfolio-green-gamma.vercel.app](https://react-portfolio-green-gamma.vercel.app)
 
