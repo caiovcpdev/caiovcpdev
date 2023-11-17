@@ -46,14 +46,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/caiovcpdev/caiovcpdev/output/snake.svg" alt="Snake animation" />
-
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Caiolindinho">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Caiolindinho&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
