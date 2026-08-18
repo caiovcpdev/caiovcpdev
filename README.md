@@ -1,50 +1,59 @@
-<h2 align="left">Hi 👋! My name is Caio and I'm a developer, from Brazil</h2>
+# Olá, eu sou [Seu Nome] 👋
 
-###
+Sou **Desenvolvedor de Software** com experiência profissional desde **2023** e formação em **Sistemas de Informação**.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiovcpdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiovcpdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Atuo principalmente no desenvolvimento **backend** com foco em **C#**, **.NET**, **SQL Server** e **APIs REST**, trabalhando também com tecnologias como **Entity Framework Core**, **Dapper**, **Git** e **Docker**.
 
-###
+Tenho experiência no desenvolvimento e manutenção de aplicações web, integração entre sistemas, criação e consumo de APIs e construção de soluções voltadas às necessidades do negócio.
 
-<img align="right" height="150" src="https://media.giphy.com/media/u0SQkPClLiBry/giphy.gif"  />
+Além da atuação em backend, também possuo experiência com tecnologias de frontend como **AngularJS**, **React** e **TypeScript**, o que me permite contribuir em projetos **Full Stack** quando necessário.
 
-###
+## 🚀 Sobre mim
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-</div>
+- 💼 Experiência profissional em desenvolvimento de software desde **2023**
+- 🎓 Formado em **Sistemas de Informação**
+- 🔧 Foco principal em **Backend .NET**
+- 🌐 Experiência com desenvolvimento **Full Stack**
+- 📚 Interesse em arquitetura de aplicações, APIs, banco de dados e evolução de sistemas
+- 🧠 Facilidade para aprender novas tecnologias, interpretar documentação técnica e resolver problemas de forma prática
 
-###
+## 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### Backend
+- C#
+- .NET
+- ASP.NET
+- APIs REST
+- Entity Framework Core
+- Dapper
 
-###
+### Banco de Dados
+- SQL Server
 
-<br clear="both">
+### Frontend
+- AngularJS
+- React
+- TypeScript
 
-###
+### Ferramentas
+- Git
+- Docker
 
+## 🎯 Objetivo
+
+Atualmente busco uma nova oportunidade como **Desenvolvedor Backend .NET** ou **Desenvolvedor Full Stack**, onde eu possa contribuir com minha experiência, agregar valor ao negócio e continuar evoluindo tecnicamente.
+
+## 📌 Interesses
+
+Tenho interesse especial em:
+
+- Desenvolvimento backend
+- Arquitetura de aplicações
+- APIs e integrações
+- Bancos de dados
+- Manutenção e evolução de sistemas existentes
+
+## 📫 Contato
+
+- LinkedIn: [seu-linkedin-aqui](https://www.linkedin.com/)
+- E-mail: seuemail@exemplo.com
