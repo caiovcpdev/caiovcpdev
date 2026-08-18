@@ -55,5 +55,5 @@ Tenho interesse especial em:
 
 ## 📫 Contato
 
-- LinkedIn: [seu-linkedin-aqui](https://www.linkedin.com/)
-- E-mail: seuemail@exemplo.com
+- LinkedIn: [caiovcpdev](https://www.linkedin.com/in/caiovcpdev)
+- E-mail: caiov761@gmail.com
