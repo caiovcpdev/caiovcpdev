@@ -39,10 +39,6 @@ Além da atuação em backend, também possuo experiência com tecnologias de fr
 - Git
 - Docker
 
-## 🎯 Objetivo
-
-Atualmente busco uma nova oportunidade como **Desenvolvedor Backend .NET** ou **Desenvolvedor Full Stack**, onde eu possa contribuir com minha experiência, agregar valor ao negócio e continuar evoluindo tecnicamente.
-
 ## 📌 Interesses
 
 Tenho interesse especial em:
